@@ -1,0 +1,23 @@
+/* .pagination{
+    
+    background: none;
+} */
+.navigate{
+    margin-top: -3rem;
+    
+}
+/* .pagination{
+    background: none;
+    
+} */
+.dot{
+    /* font-size: xx-large; */
+    border-radius: 50%;
+    padding : 5px;
+}
+/* .page-link{
+    background-color:#1d1d1d !important; 
+    border: 1px solid grey; 
+    font-size: xx-large;
+    border-radius: 50%;
+} */
